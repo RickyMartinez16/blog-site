@@ -1,5 +1,5 @@
 import "./App.css";
-import {Route, BrowserRouter as Router} from "react-router-dom";
+import {Route, useParams, BrowserRouter as Router} from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
 import ArticlePage from "./pages/ArticlePage";
@@ -18,11 +18,11 @@ function App() {
       <Route path="/about">
         <AboutPage />
       </Route>
+      <Route path="/article/:name">
+        <ArticlePage />
+      </Route>
       <Route path="/articles-list">
         <ArticlesListPage />
-      </Route>
-      <Route path="/article">
-        <ArticlePage />
       </Route>
     </Router>
   )
