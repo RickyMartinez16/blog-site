@@ -1,6 +1,7 @@
 import React from "react"
 import {useParams} from "react-router-dom"
 import articleContent from "./article-content"
+import ArticlesList from "../components/ArticlesList";
 
 function ArticlePage(){
     const {name} = useParams();
@@ -11,6 +12,8 @@ function ArticlePage(){
             <h1>Article does not exist</h1>
         )
     }
+
+    const otherArticles = articleContent.filter(article => article.name != name)
     
     return (
         <div>
@@ -18,6 +21,8 @@ function ArticlePage(){
             {article.content.map((paragraph, key) => (
                 <p key={key}>{paragraph}</p>
             ))}
+            <h4>Other Articles</h4>
+            <ArticlesList articles={otherArticles}/>
         </div>
     )
 }
