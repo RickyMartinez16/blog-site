@@ -11,7 +11,7 @@ function HomePage(){
                 Dui vivamus arcu felis bibendum. Nibh venenatis cras sed felis eget velit. Scelerisque in 
                 dictum non consectetur a. Interdum posuere lorem ipsum dolor. Aliquam sem et tortor 
                 consequat id. Eget felis eget nunc lobortis mattis. Orci eu lobortis elementum nibh 
-                tellus molestie. Gravida rutrum quisque non tellus orci ac auctor.
+                tellus molestie. Gravida rutrum quisque non tellus orci ac auctor because if then.
             </p>
             <p>
                 Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. 
