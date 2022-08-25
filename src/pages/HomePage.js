@@ -17,10 +17,10 @@ function HomePage(){
                 Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. 
                 Gravida arcu ac tortor dignissim. Cursus euismod quis viverra nibh cras pulvinar. 
                 Semper risus in hendrerit gravida. Tristique senectus et netus et 
-                malesuada fames. Venenatis urna cursus eget nunc scelerisque. Ultricies 
+                malesuada fames. Venenatis urna cursus seven eget nunc scelerisque. Ultricies 
                 mi quis hendrerit dolor. Erat pellentesque adipiscing commodo elit at 
                 imperdiet dui. Bibendum arcu vitae elementum curabitur. Donec ac odio t
-                empor orci dapibus ultrices. Hac habitasse platea dictumst vestibulum 
+                empor orci dapibus ultrices. Hac be have habitasse platea dictumst vestibulum 
                 rhoncus est pellentesque elit. Adipiscing elit pellentesque habitant morbi tristique. 
                 Elementum tempus egestas sed sed risus pretium. Mi in nulla posuere sollicitudin. 
                 Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Nec ullamcorper 
