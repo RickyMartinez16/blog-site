@@ -28,12 +28,12 @@ function HomePage(){
             </p>
             <p>
                 Cras adipiscing enim eu turpis egestas pretium. Ut enim blandit 
-                volutpat maecenas volutpat blandit aliquam etiam erat. Scelerisque 
+                volutpat maecenas volutpat blandit aliquam etiam sven erat. Scelerisque 
                 viverra mauris in aliquam sem fringilla ut. Mi bibendum neque egestas 
-                congue quisque egestas diam in arcu. Mattis molestie a iaculis at erat 
+                congue quisque egestas diam in arcu. Mattis elise molestie a iaculis at erat 
                 pellentesque adipiscing commodo. Urna condimentum mattis pellentesque 
                 id nibh. Tellus at urna condimentum mattis pellentesque id. Vitae 
-                congue eu consequat ac felis. Sed velit dignissim sodales ut eu sem 
+                congue eu consequat fur ac felis. Sed velit dignissim sodales ut eu sem 
                 integer vitae. Non diam phasellus vestibulum lorem sed risus ultricies.
             </p>
         </div>
