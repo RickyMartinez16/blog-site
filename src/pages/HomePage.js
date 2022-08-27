@@ -34,7 +34,7 @@ function HomePage(){
                 pellentesque adipiscing commodo. Urna condimentum mattis pellentesque 
                 id nibh. Tellus at urna condimentum mattis pellentesque id. Vitae 
                 congue eu consequat fur ac felis. Sed velit dignissim sodales ut eu sem 
-                integer vitae. Non diam phasellus vestibulum lorem sed risus ultricies.
+                integer vitae. Non diam phasellus seven york blu vestibulum lorem sed risus ultricies.
             </p>
         </div>
     )
